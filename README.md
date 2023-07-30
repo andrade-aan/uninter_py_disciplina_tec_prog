@@ -1,14 +1,8 @@
-<table>
-    <th><h1>
+<h1>
     <a href="https://www.uninter.com/">
-     <img align="left" width="80px" src="https://cdn.cookielaw.org/logos/688ab206-bbde-4ade-b903-8badbf96aa80/5f615f9d-1ca4-4d50-b2b9-5bea008cf46e/29ca3876-c401-4342-9f1b-e82a4932cc7e/Logo_uninter.png"></a>
-     </th>
-     <th>
-    <span style="font-size: 30px ">Lógica de Programação e Algoritmos</span>
-    </th>
+     <img align="left" width="50px" src="https://cdn.cookielaw.org/logos/688ab206-bbde-4ade-b903-8badbf96aa80/5f615f9d-1ca4-4d50-b2b9-5bea008cf46e/29ca3876-c401-4342-9f1b-e82a4932cc7e/Logo_uninter.png"></a>    
+<span>Lógica de Programação e Algoritmos</span>
 </h1>
-</table>
-
 
 ---
 
